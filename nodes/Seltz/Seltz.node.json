@@ -1,0 +1,12 @@
+{
+	"node": "n8n-nodes-seltz.seltz",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Communication", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{ "url": "https://github.com/seltz-ai/n8n-nodes-seltz#credentials" }
+		],
+		"primaryDocumentation": [{ "url": "https://github.com/seltz-ai/n8n-nodes-seltz" }]
+	}
+}
