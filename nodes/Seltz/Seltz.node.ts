@@ -95,7 +95,7 @@ export class Seltz implements INodeType {
 						},
 						body: {
 							query,
-							includes: { max_documents: maxDocuments },
+							max_results: maxDocuments,
 						},
 						json: true,
 					},

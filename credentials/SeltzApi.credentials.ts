@@ -41,7 +41,7 @@ export class SeltzApi implements ICredentialType {
 			url: '/v1/search/',
 			body: {
 				query: 'test',
-				includes: { max_documents: 1 },
+				max_results: 1,
 			},
 			json: true,
 		},
